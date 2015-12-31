@@ -1,0 +1,3 @@
+probanco comandos 
+git fetch
+git merge
