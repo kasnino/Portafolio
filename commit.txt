@@ -1,0 +1,29 @@
+commit c2d6310353e2b02d386bc69d7d37d25c2208186e
+Author: kasnino <kasn.emprendedor@gmail.com>
+Date:   Wed Dec 30 11:06:21 2015 -0430
+
+    termine de modificar mi info
+
+commit de0b38d3f779c78d42dcc27343f19861b1042aba
+Author: kasnino <kasn.emprendedor@gmail.com>
+Date:   Wed Dec 30 11:03:40 2015 -0430
+
+    Perfil de redes Sociales
+
+commit cde02b83acdcb01b43034432eff3799184a24ab7
+Author: kasnino <kasn.emprendedor@gmail.com>
+Date:   Wed Dec 30 11:00:26 2015 -0430
+
+    Mi perfil web escrito
+
+commit 5612ffc714c4a427cbbfb139bdcc96f745e8fafb
+Author: kasnino <kasn.emprendedor@gmail.com>
+Date:   Wed Dec 30 10:57:38 2015 -0430
+
+    Subi foto y nombre de perfil
+
+commit 1cc9140ae93d380ac2919fafc9a0549cdca3fa84
+Author: kasnino <kasn.emprendedor@gmail.com>
+Date:   Wed Dec 30 10:51:27 2015 -0430
+
+    archivos base platzi
